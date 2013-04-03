@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>电子与信息</string>
+	<key>2</key>
+	<string>生物医药</string>
+	<key>3</key>
+	<string>新材料</string>
+	<key>4</key>
+	<string>新能源/高效节能</string>
+	<key>5</key>
+	<string>光机电一体化</string>
+	<key>6</key>
+	<string>农业</string>
+	<key>7</key>
+	<string>资源与环境</string>
+	<key>8</key>
+	<string>金融投资</string>
+	<key>9</key>
+	<string>商务流通</string>
+	<key>10</key>
+	<string>管理咨询</string>
+	<key>11</key>
+	<string>其他</string>
+	<key>12</key>
+	<string>教育培训</string>
+</dict>
+</plist>

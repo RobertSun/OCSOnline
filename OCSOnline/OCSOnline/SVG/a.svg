@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!--Created with Sketsa SVG Editor (http://www.kiyut.com)-->
+<svg contentScriptType="text/ecmascript" width="1024.0px" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full"
+    zoomAndPan="magnify" contentStyleType="text/css" height="768.0px" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+    version="1.0">
+    <rect fill="none" x="149.0" width="162.0" height="124.0" y="141.0" stroke="#000000"/>
+    <polygon fill="#990099" points="397.0,194.0 489.0,136.0 540.0,210.0 502.0,295.0 377.0,245.0" stroke="#660066"/>
+    <text x="546.0" y="302.0"><tspan xml:space="preserve">here is the text </tspan></text>
+    <polyline id="QQ中国"  fill="none" points="309.0,360.0 378.0,332.0 416.0,359.0 451.0,392.0 389.0,427.0 304.0,415.0 286.0,416.0 
+        318.0,453.0 250.0,406.0 235.0,369.0 258.0,340.0 283.0,313.0 261.0,294.0 326.0,303.0 316.0,333.0 314.0,338.0"
+        stroke="#000000"/>
+    <polyline id="UOI中国" fill="none" points="313.0,338.0 311.0,360.0 339.0,369.0" stroke="#000000"/>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!--Created with Sketsa SVG Editor (http://www.kiyut.com)-->
+<svg contentScriptType="text/ecmascript" width="1024.0px" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full"
+    zoomAndPan="magnify" contentStyleType="text/css" height="768.0px" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+    version="1.0">
+    <polygon fill="#33ccff" id="项目A" points="185.0,176.0 333.0,191.0 324.0,360.0 131.0,349.0 96.0,203.0 175.0,92.0 
+        415.0,103.0" stroke="#000000"/>
+    <polygon fill="none" id="项目B" points="519.0,134.0 637.0,147.0 579.0,237.0 557.0,200.0 471.0,162.0" stroke="#000000"/>
+    <path fill="none" d="M 171.0 225.0" stroke="#000000"/>
+    <text x="520.0" y="167.0"><tspan xml:space="preserve">发的阿斯顿飞 </tspan><tspan x="520.0" dy="12.0" xml:space="preserve"> </tspan></text>
+    <text x="457.0" y="224.0"><tspan xml:space="preserve">here is the text</tspan><tspan x="457.0" dy="12.0" xml:space="preserve"> </tspan></text>
+    <text x="185.0" y="242.0"><tspan xml:space="preserve"> 阿斯顿飞阿斯顿飞 </tspan></text>
+</svg>
